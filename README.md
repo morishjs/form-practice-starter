@@ -9,3 +9,8 @@
      - `<TextField />`에서 입력받은 값을 `<Form />`에서 관리하는 state에 저장해주세요
     - 반드시 `<Button />` 컴포넌트를 사용해야 합니다.
       - `<Button />`의 `onClick` prop에는 `<Form />`에서 관리하는 state를 alert 창으로 출력해야 합니다.
+
+
+
+https://user-images.githubusercontent.com/6479241/220772383-fa2c70e7-04e5-410f-9a63-8393864beb26.mov
+
